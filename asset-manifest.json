@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/aggrid-v3/static/css/main.c68f6f46.css",
+    "main.js": "/aggrid-v3/static/js/main.a5ccad81.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/aggrid-v3/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/grid.png": "/aggrid-v3/static/media/grid.2484048527081e04e15c.png",
+    "static/media/aggrid.png": "/aggrid-v3/static/media/aggrid.d8ebd3f1f302d42d7dc4.png",
+    "index.html": "/aggrid-v3/index.html",
+    "main.c68f6f46.css.map": "/aggrid-v3/static/css/main.c68f6f46.css.map",
+    "main.a5ccad81.js.map": "/aggrid-v3/static/js/main.a5ccad81.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/aggrid-v3/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c68f6f46.css",
+    "static/js/main.a5ccad81.js"
+  ]
+}
